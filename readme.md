@@ -12,6 +12,7 @@ Orchid is a free [Laravel](https://laravel.com) package that abstracts standard 
 <a href="https://codecov.io/gh/orchidsoftware/platform"><img src="https://codecov.io/gh/orchidsoftware/platform/branch/master/graph/badge.svg" /></a>
 <a href="https://packagist.org/packages/orchid/platform"><img alt="Packagist" src="https://img.shields.io/packagist/dt/orchid/platform.svg"></a>
 <a href="https://opencollective.com/orchid"><img src="https://img.shields.io/opencollective/all/orchid" alt="Open Collective backers and sponsors"></a>
+<a href="https://gurubase.io/g/orchid"><img src="https://img.shields.io/badge/Gurubase-Ask%20Orchid%20Guru-006BFF" alt="Gurubase"></a>
 </p>
 
 
